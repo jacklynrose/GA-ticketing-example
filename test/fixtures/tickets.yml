@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  category: MyString
+  issue_date: 2014-04-10 01:33:38
+  end_date: 2014-04-10 01:33:38
+  price: 1
+
+two:
+  title: MyString
+  category: MyString
+  issue_date: 2014-04-10 01:33:38
+  end_date: 2014-04-10 01:33:38
+  price: 1
